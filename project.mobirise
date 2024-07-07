@@ -73,8 +73,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Compiuto Consulting",
+        "meta_descr": "Compiuto Consulting is a specialized tech consultancy dedicated to assisting job seekers in preparing for interviews and refining their resumes.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
